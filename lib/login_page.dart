@@ -153,8 +153,8 @@ class _LoginPageState extends State<LoginPage> {
                 AuthController.instance.login(emailController.text.trim(), passwordController.text.trim());
               },
               child: Container(
-                width: w * 0.5,
-                height: h * 0.08,
+                width: w * 0.4,
+                height: h * 0.07,
                 decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(30),
                     image: DecorationImage(
@@ -165,7 +165,7 @@ class _LoginPageState extends State<LoginPage> {
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
                         color: Colors.white,
-                        fontSize: 35,
+                        fontSize: 25,
                       )),
                 ),
               ),

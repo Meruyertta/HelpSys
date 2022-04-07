@@ -70,6 +70,9 @@ class _ForgotPasswordPageState extends State<ForgotPasswordPage> {
                     ),
                     SizedBox(height:20),
                     TextFormField(
+                      decoration: InputDecoration(
+                        hintText: "Your email"
+                      ),
                       controller: emailController,
                       textInputAction: TextInputAction.done,
                       autovalidateMode: AutovalidateMode.onUserInteraction,
@@ -80,10 +83,6 @@ class _ForgotPasswordPageState extends State<ForgotPasswordPage> {
                     ),
                     SizedBox(height:20),
                     GestureDetector(
-                      // onTap:() {
-                      //   AuthController.instance.resetPassword(
-                      //       emailController.text.trim());
-                      // },
                       child: ElevatedButton.icon(
                           style: ElevatedButton.styleFrom(
                             minimumSize: Size.fromHeight(50),
