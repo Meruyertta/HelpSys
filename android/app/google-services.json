@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "40299765773",
+    "project_id": "helpsys-2dab9",
+    "storage_bucket": "helpsys-2dab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40299765773:android:38932747d595d21027b544",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40299765773-qcprfk6qt11lfjss28ak7puedvpe8ge5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFe2cA2EAgz66ar7OxQMt9W6Tn2Wr_dSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40299765773-qcprfk6qt11lfjss28ak7puedvpe8ge5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "40299765773-rqj4kujq45n7g1nmkm12k1dds7bduaht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.login"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
