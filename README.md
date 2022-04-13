@@ -1,16 +1,13 @@
-# login
+# Authentication 
 
-A new Flutter project.
+A new Flutter project connected to Firebase database
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project uses Getx library and Firebase database. Project is on its development process. 
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/77634115/163138681-c7841ea1-ce2c-47a5-abcc-96de6f7679ae.png)
+![image](https://user-images.githubusercontent.com/77634115/163138983-0c804c86-b3cb-4a3b-accc-bd7a32bd6dfa.png)
+![image](https://user-images.githubusercontent.com/77634115/163139036-27a56dd4-aa1a-4544-9dce-a9bc08e0da6d.png)
+![image](https://user-images.githubusercontent.com/77634115/163139505-c2c90813-a406-4ff2-8607-0c514d4cfc02.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
